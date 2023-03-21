@@ -1,8 +1,8 @@
 import React from 'react'
 import LinkedInIcon from "@material-ui/icons/LinkedIn"
 import EmailIcon from "@material-ui/icons/Email"
-import TwitterIcon from "@material-ui/icons/Twitter"
 import "../styles/Home.css"
+import MyComponent from "../SocialMedia/Twitter"
 function Home() {
   return (
     <div className='home'>
@@ -12,7 +12,7 @@ function Home() {
         <p>I'm a Software Developer </p>
         <LinkedInIcon/>
         <EmailIcon/>
-        <TwitterIcon/>
+        <MyComponent/>
        
         </div>
         </div>

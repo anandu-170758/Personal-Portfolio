@@ -6,7 +6,7 @@ export const ProjectList =[
     {
         name:"hellgo",
         Image:ab1,
-        skills:"HTML,CSS,Javacript",
+        skills:"HTML,CSS,JavaScript",
     },
     {
         name:"duck",
@@ -16,7 +16,7 @@ export const ProjectList =[
     {
         name:"zero",
         Image:ab3,
-        skills:"HTML,CSS,Javacript",
+        skills:"HTML,CSS,JavaScript",
     },
 
    
