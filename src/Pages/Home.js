@@ -1,16 +1,18 @@
 import React from 'react'
 import LinkedInIcon from "@material-ui/icons/LinkedIn"
 import EmailIcon from "@material-ui/icons/Email"
+import TwitterIcon from "@material-ui/icons/Twitter"
 import "../styles/Home.css"
 function Home() {
   return (
     <div className='home'>
       <div className='about'>
-      <h2>Hi,My Name is Anandu K S</h2>
+      <h3>Hi,My Name is Anandu K S</h3>
       <div className='prompt'>
         <p>I'm a Software Developer </p>
         <LinkedInIcon/>
         <EmailIcon/>
+        <TwitterIcon/>
        
         </div>
         </div>

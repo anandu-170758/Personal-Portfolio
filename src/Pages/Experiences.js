@@ -8,13 +8,35 @@ function Experiences() {
     <VerticalTimeline lineColor="#3e497a">
       <VerticalTimelineElement
       className="vertical-timeline-element--education"
-      date="2012-2015"
+      date="2013-2014"
       iconStyle={{background:"#3e497a",colo:"#fff"}}
       icon={<SchoolIcon/>}
       >
-        <h3 className="vertical-timeline-element-title">ST Thomas High School,Kallara,Kerala</h3>
-        <h3>High School Diploma</h3>
+        <h3 className="vertical-timeline-element-title">St. Thomas High School,Kallara,Kerala,India</h3>
+        <h3>High School </h3>
       </VerticalTimelineElement>
+
+      <VerticalTimelineElement
+      className="vertical-timeline-element--education"
+      date="2014-2016"
+      iconStyle={{background:"#3e497a",colo:"#fff"}}
+      icon={<SchoolIcon/>}
+      >
+        <h3 className="vertical-timeline-element-title">St. Micheals HSS,Kaduthuruthy,Kerala,India</h3>
+        <h3>Higher Secondary</h3>
+      </VerticalTimelineElement>
+
+      <VerticalTimelineElement
+      className="vertical-timeline-element--education"
+      date="2017-2022"
+      iconStyle={{background:"#3e497a",colo:"#fff"}}
+      icon={<SchoolIcon/>}
+      >
+        <h3 className="vertical-timeline-element-title">National Institute of Technology,Calicut,India</h3>
+        <h3>Bachelor of Technology,Electronics and Communication</h3>
+      </VerticalTimelineElement>
+
+
     </VerticalTimeline>
 
   </div>)
