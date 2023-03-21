@@ -4,16 +4,19 @@ import ab3 from "../assets/ab3.jpg"
 
 export const ProjectList =[
     {
-        name:"hello",
+        name:"hellgo",
         Image:ab1,
+        skills:"HTML,CSS,Javacript",
     },
     {
         name:"duck",
         Image:ab2,
+        skills:"React JS,BootStrap",
     },
     {
         name:"zero",
         Image:ab3,
+        skills:"HTML,CSS,Javacript",
     },
 
    
