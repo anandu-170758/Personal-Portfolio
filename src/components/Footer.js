@@ -1,17 +1,17 @@
 import React from 'react'
-import InstagramIcon from "@material-ui/icons/Instagram"
-import TwitterIcon from "@material-ui/icons/Twitter"
-import LinkedInICon from "@material-ui/icons/LinkedIn"
-import GitHubIcon from "@material-ui/icons/GitHub"
+import Twitter from "../SocialMedia/Twitter"
+import GitHub from "../SocialMedia/Github"
 import "../styles/Footer.css"
+import Instagram from '../SocialMedia/Instagram'
+import LinkedIn from '../SocialMedia/Linkedin'
 function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'>
-            <InstagramIcon/>
-            <TwitterIcon/>
-            <LinkedInICon/>
-            <GitHubIcon/>
+            <Instagram/>
+            <Twitter/>
+            <LinkedIn/>
+            <GitHub/>
         </div>
         <p>&copy;2023 AnanduKS.com</p>
     </div>

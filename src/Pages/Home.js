@@ -1,8 +1,10 @@
 import React from 'react'
-import LinkedInIcon from "@material-ui/icons/LinkedIn"
-import EmailIcon from "@material-ui/icons/Email"
+import Linkedin from '../SocialMedia/Linkedin'
+import GitHub from "../SocialMedia/Github"
+import Instagram from '../SocialMedia/Instagram'
 import "../styles/Home.css"
-import MyComponent from "../SocialMedia/Twitter"
+import Twitter from "../SocialMedia/Twitter"//import CV from '../SocialMedia/CV'
+import Email from '../SocialMedia/Email'
 function Home() {
   return (
     <div className='home'>
@@ -10,10 +12,13 @@ function Home() {
       <h3>Hi,My Name is Anandu K S</h3>
       <div className='prompt'>
         <p>I'm a Software Developer </p>
-        <LinkedInIcon/>
-        <EmailIcon/>
-        <MyComponent/>
+        <Linkedin/>
        
+        <Email/>
+        <Twitter/>
+        <GitHub/>
+        <Instagram/>
+        
         </div>
         </div>
       <div className='skills'></div>
