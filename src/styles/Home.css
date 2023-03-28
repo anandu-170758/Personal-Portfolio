@@ -25,16 +25,18 @@
     display: flex;
   }
   .about p{
-    font-size: 47px;
+    font-size: 3.6vw;
     margin-top: 46px;
     margin-bottom: 25px;
     display: flex;
+    letter-spacing: 2.5px;
   }
   
   .about h3 {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 55px;
-    color:  #e9d35b;
+    font-family: Century Gothic bold;
+    font-size: 4.3vw;
+    letter-spacing: 1.4px;
+    color: rgb(242 140 40);
     height: 50px;
     display: flex;
 
