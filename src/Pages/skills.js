@@ -4,7 +4,7 @@ function Skills() {
   return (
     <div class="">
   <div class="container">
-    <h2 class="pb-3 pt-2 border-bottom mb-5"><center>SKILLS</center></h2>
+    <h2 class="pb-4 pt-4 border-bottom mb-5"><center>SKILLS</center></h2>
   
     <div class="row align-items-center how-it-works d-flex">
       <div class="col-2 text-center bottom d-inline-flex justify-content-center align-items-center">
