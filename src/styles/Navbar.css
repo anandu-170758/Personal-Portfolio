@@ -12,6 +12,7 @@
   align-items: center;
   justify-content: center;
   color: white;
+
 }
 
 .navbar a {
@@ -19,6 +20,7 @@
   text-decoration: none;
   margin: 20px;
   font-size: 25px;
+  font-family: ui-sans-serif;
 }
 
 .toggleButton {

@@ -17,9 +17,9 @@ function Navbar() {
             }}><ReorderIcon/></button>
         </div>
         <div className='links'>
-        <Link to="/">Home</Link>
-        <Link to="/Projects">Projects</Link>
-        <Link to="/Experiences">Experiences</Link>
+        <Link to="/"><u>Home</u></Link>
+        <Link to="/Projects"><u>Projects</u></Link>
+        <Link to="/Experiences"><u>Experiences</u></Link>
         </div>
     </div>
   )
