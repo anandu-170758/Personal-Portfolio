@@ -25,7 +25,7 @@
     display: flex;
   }
   .about p{
-    font-size: 3.6vw;
+    font-size: 4vw;
     margin-top: 13px;
     margin-bottom: 25px;
     display: flex;
@@ -34,7 +34,7 @@
   
   .about h3 {
     font-family: Century Gothic bold;
-    font-size: 4.3vw;
+    font-size: 5vw;
     letter-spacing: 1.4px;
     color: rgb(242 140 40);
     height: 50px;
