@@ -13,7 +13,7 @@ function Footer() {
             <LinkedIn/>
             <GitHub/>
         </div>
-        <p>&copy;2023 AnanduKS.com</p>
+        <p className='copyright-text'>&copy;{new Date().getFullYear()} Anandu K S</p>
     </div>
   )
 }
