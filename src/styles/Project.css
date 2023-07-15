@@ -9,7 +9,7 @@
   .projects .projectTitle {
     text-align: center;
     color: #3e497a;
-    font-size: 60px;
+    font-size: 35px;
     font-weight: bolder;
   }
   
@@ -17,11 +17,12 @@
     width: 70vw;
     height: auto;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
     place-items: center;
   }
   .h1, h1 {
-    font-size: 4vw;
+    font-size: 2rem;
+    text-align: center;
     margin-top: 40px;
     letter-spacing: 2.5px;
 
