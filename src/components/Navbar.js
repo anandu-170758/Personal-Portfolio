@@ -19,7 +19,7 @@ function Navbar() {
         <div className='links'>
         <Link to="/"><u>Home</u></Link>
         <Link to="/Projects"><u>Projects</u></Link>
-        <Link to="/Experiences"><u>Experiences</u></Link>
+        <Link to="/Experiences"><u>Career-Profile</u></Link>
         </div>
     </div>
   )

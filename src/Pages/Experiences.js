@@ -7,6 +7,17 @@ import "../styles/Experience.css"
 function Experiences() {
   return (<div className="experience">
     <VerticalTimeline lineColor="#3e497a">
+       
+      <VerticalTimelineElement
+      className="vertical-timeline-element--education"
+      date="2023"
+      iconStyle={{background:"#3e497a",colo:"#fff"}}
+      icon={<SchoolIcon/>}
+      >
+        <h3 className="vertical-timeline-element-title font-fix-css">AWS Re/Start Program Course Certification</h3>
+        <h3 className="font-fix-css">National Skill Development Corporation</h3>
+      </VerticalTimelineElement>
+
       <VerticalTimelineElement
       className="vertical-timeline-element--education"
       date="2017-2022"
