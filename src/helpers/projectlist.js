@@ -17,7 +17,7 @@ export const ProjectList =[
         skills:"HTML,CSS,JavaScript",
         url:"https://qr-code-generator-mauve.vercel.app/",
         githuburl:"https://github.com/anandu-170758/QR-Code-Generator",
-        description:"Introducing 'QR Code Generator' using Google Chart API. This HTML and JavaScript file includes functions for accessing elements like TextBox and TextArea dynamically. It allows users to generate QR codes with ease by entering the required information in the provided TextBox and TextArea fields. The generated QR code is displayed instantly for quick sharing and usage."
+        description:"Introducing 'QR Code Generator' using Google Chart API. This HTML5 and JavaScript file includes functions for accessing elements like TextBox and TextArea dynamically. It allows users to generate QR codes with ease by entering the required information in the provided TextBox and TextArea fields. The generated QR code is displayed instantly for quick sharing and usage."
     },
     
 
