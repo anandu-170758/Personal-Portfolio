@@ -9,9 +9,11 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    margin-top:2rem ;
   }
   
   .project h1 {
+    
     margin-bottom: 3rem;
     color: #3e497a;
     font-size: 2rem !important;
