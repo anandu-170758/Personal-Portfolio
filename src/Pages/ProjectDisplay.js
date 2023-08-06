@@ -12,7 +12,13 @@ function ProjectDisplay() {
         <a href={project.url} target="_blank" style={{textDecoration:'none'}}><img src={project.Image} alt="hi"/></a>
     
     <p>
-       <b>skills</b> :{project.skills}
+       <b>SKILLS</b>:{project.skills}
+    </p>
+    <p>
+     <b>I</b>ntroducing "<b>COVID-19 Stats Tracker</b>," a real-time application built using<b> ReactJS</b>,<b> HTML5</b>,and<b> CSS3</b>.
+     It provides dynamic data on active and recovered cases by country, ensuring a seamless user experience with robust error handling and efficient data retrieval.
+      The project features interactive line graphs and maps, allowing users to visualize and track <b>COVID-19</b> cases effortlessly. 
+      Stay informed with the latest statistics and gain insights into the pandemic's impact worldwide with the <b>COVID-19</b>  Stats Tracker.
     </p>
     <a href={project.githuburl} target="_blank"> <GitHubIcon/></a>
    
