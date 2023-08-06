@@ -12,9 +12,11 @@ export const ProjectList =[
     
     },
     {
-        name:"duck",
+        name:"QR-Code Generator",
         Image:ab2,
         skills:"React JS,BootStrap",
+        url:"https://qr-code-generator-mauve.vercel.app/",
+        githuburl:"https://github.com/anandu-170758/QR-Code-Generator"
     },
     {
         name:"zero",
