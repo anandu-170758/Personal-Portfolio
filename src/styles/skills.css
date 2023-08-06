@@ -21,13 +21,18 @@
     left: 50%;
     top: 50%;
   }
-  .how-it-works.row .col-2.full::after {
+  .how-it-works.row .col-2.left::after {
     height: 100%;
-    left: calc(50% - 3px);
+    left: 50%;
+  }
+  
+  .how-it-works.row .col-2.right::after {
+    height: 100%;
+    right: 50%;
   }
   .how-it-works.row .col-2.top::after {
     height: 50%;
-    left: 50%;
+    right: 50%;
     top: 0;
   }
   
