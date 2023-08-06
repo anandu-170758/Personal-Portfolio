@@ -1,7 +1,7 @@
-/* .adjusted-margin {
+.adjusted-margin {
   margin-left: 20px;
   margin-right: 20px;
-} */
+}
 .project {
     width: 100%;
     height: calc(100vh - 100px);
