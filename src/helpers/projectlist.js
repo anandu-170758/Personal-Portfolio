@@ -9,7 +9,7 @@ export const ProjectList =[
         skills:"ReactJS,HTML,CSS,JavaScript",
         url:"https://covid-tracker-ten-orcin.vercel.app/",
         githuburl:"https://github.com/anandu-170758/covid-tracker",
-        description:"Introducing 'COVID-19 Stats Tracker', a real-time application built using ReactJS, HTML5, and CSS3. It provides dynamic data on active and recovered cases by country, ensuring a seamless user experience with robust error handling and efficient data retrieval. The project features interactive line graphs and maps, allowing users to visualize and track COVID-19 cases effortlessly. Stay informed with the latest statistics and gain insights into the pandemic's impact worldwide with the COVID-19 Stats Tracker."
+        description:"Introducing 'COVID-19 Stats Tracker', a real-time application built using ReactJS, HTML5, and CSS3. It provides dynamic data on active and recovered cases by country, ensuring a seamless user experience with robust error handling. Stay informed with the latest statistics and visualize the pandemic's impact worldwide with interactive line graphs and maps."
     },
     {
         name:"QR-Code Generator",
