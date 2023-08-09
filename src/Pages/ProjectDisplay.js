@@ -8,7 +8,8 @@ function ProjectDisplay() {
     const project =ProjectList[id];
   return (
     <div className='project'>
-        <h1>{project.name}</h1>
+      <div className='meow'><h1>{project.name}</h1></div>
+        
         <a href={project.url} target="_blank" style={{textDecoration:'none'}}><img src={project.Image} alt="hi"/></a>
     
     <p>
