@@ -1,6 +1,6 @@
 import React from 'react'
 import IconButton from '@material-ui/core/IconButton';
-import { FolderRounded, FolderSpecialTwoTone } from '@material-ui/icons';
+import { FolderRounded} from '@material-ui/icons';
 // import ArticleIcon from '@material-ui/icons-material/FolderRounded'
 function Cv() {
     const handleClick = () => {
