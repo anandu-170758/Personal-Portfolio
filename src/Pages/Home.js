@@ -6,6 +6,7 @@ import "../styles/Home.css"
 import Twitter from "../SocialMedia/Twitter"//import CV from '../SocialMedia/CV'
 import Email from '../SocialMedia/Email'
 import Skills from './skills'
+import Cv from '../SocialMedia/Cv'
 function Home() {
   return (
     <div className='home'>
@@ -15,12 +16,12 @@ function Home() {
       <div className='prompt'>
        
         <Linkedin/>
-       
+      
         <Email/>
         <Twitter/>
         <GitHub/>
         <Instagram/>
-       
+        <Cv/>
         </div>
         </div>
         <Skills/>

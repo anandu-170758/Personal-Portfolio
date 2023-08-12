@@ -1,16 +1,17 @@
 import React from 'react'
 import IconButton from '@material-ui/core/IconButton';
-import ArticleIcon from '@material-ui/icons-material/Article'
-function CV() {
+import { FolderRounded, FolderSpecialTwoTone } from '@material-ui/icons';
+// import ArticleIcon from '@material-ui/icons-material/FolderRounded'
+function Cv() {
     const handleClick = () => {
-        window.open('https://app.luminpdf.com/viewer/6419bcbcc156d2c6851ac37f');
+        window.open('https://drive.google.com/file/d/1RSh9xUexclj1HNsXrGz_6KYFAfGTu4LU/view?usp=drive_link');
       };
     
       return (
         <IconButton onClick={handleClick}>
-          <ArticleIcon />
+          <FolderRounded />
         </IconButton>
       );
 }
 
-export default CV
+export default Cv
