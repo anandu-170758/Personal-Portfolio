@@ -6,7 +6,7 @@ import "../styles/Home.css"
 import Twitter from "../SocialMedia/Twitter"//import CV from '../SocialMedia/CV'
 import Email from '../SocialMedia/Email'
 import Skills from './skills'
-import Cv from '../SocialMedia/Cv'
+import Cv from './Cv'
 function Home() {
   return (
     <div className='home'>
